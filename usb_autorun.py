@@ -2,6 +2,9 @@ import os
 import time
 import psutil
 
+#!!!!!Change the name of the script!!!!!
+urscript = 'urscript.extrntion' 
+
 def get_usb_drives():
     """Returns a set of currently connected USB storage drives."""
     partitions = psutil.disk_partitions()
@@ -21,7 +24,7 @@ def wait_for_usb_drive():
         if new_drives:
             print(f"USB flash drive connected: {list(new_drives)[0]}")
             os.chdir(str(new_drives.pop()))#Change the directory to USB drive
-            os.system('urscript.extrntion')
+            os.system(urscript)
             #Above line is for running your script which is in USB drive.    
             time.sleep(20)
             print('Done')

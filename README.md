@@ -5,7 +5,7 @@ This is a project to run a script when a usb is connected(Like Rubber Ducky)<br>
 
 # Difference b/w usb Rubber Ducky and Autorun
 
-Usb Rubber Ducky has a inbuilt microcontroller which automatically runs the code when usb is connected, But you need to have this code running in ur system and a `yourscript.extention` in your usb drive.
+Usb Rubber Ducky has a inbuilt microcontroller which automatically runs the code when usb is connected, But you need to have this code running in ur system and a `script.vbs` in your usb drive.
 
 # Directions for Proper Execution
 

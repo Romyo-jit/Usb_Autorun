@@ -18,7 +18,7 @@ Usb Rubber Ducky has a inbuilt microcontroller which automatically runs the code
 -----Now when u plug the usb drive it should run the script :)------
 
 # script.vbs
-In the `script.vbs` there is instruction to open `notepad.exe` and type `HAHA!!! YOU HAVE BEEN HACKED' You can change the code however u like
+In the `script.vbs` there is instruction to open `notepad.exe` and type `HAHA!!! YOU HAVE BEEN HACKED' in ur notepad. You can change the code however u like
 
 # Making executable
 You can make a python executable with `pyinstaller`

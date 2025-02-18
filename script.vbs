@@ -1,3 +1,5 @@
+' VBS script to open notepad and type text
+
 Set WshShell = WScript.CreateObject("WScript.Shell")
 
 ' Open Notepad

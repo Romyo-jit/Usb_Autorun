@@ -1,7 +1,7 @@
 # Usb_Autorun
 
 This is a project to run a script when a usb is connected(Like Rubber Ducky)<br>
-### !!EDUCATIONAL PURPOSE!!
+### !! EDUCATIONAL PURPOSE !!
 
 # Difference b/w usb Rubber Ducky and Autorun
 
